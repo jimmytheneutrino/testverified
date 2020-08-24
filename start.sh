@@ -1,0 +1,2 @@
+# NASTY SCRIPT
+# rm -rf /
